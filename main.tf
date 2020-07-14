@@ -1,5 +1,5 @@
 data "ibm_container_cluster_config" "cluster1" {
-  cluster_name_id = "inveni_fra04"
+  cluster_name_id = "mycluster-free"
   #config_dir      = "/tmp/config_dir"
 }
 
